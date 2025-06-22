@@ -23,8 +23,7 @@ An intelligent resume analysis tool powered by Google's Gemini AI that helps job
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd LLMs
+   git clone https://github.com/SaiShankar93/Resume-Review-AI
    ```
 
 2. **Create and activate virtual environment**
