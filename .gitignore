@@ -1,0 +1,4 @@
+.env
+env/
+restaurant_name_pred.ipynb
+/env
